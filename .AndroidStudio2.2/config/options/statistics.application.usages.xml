@@ -1,0 +1,49 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="Git">
+      <project id="DancingInvitation2" values="config.force.push.enabled,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.ssh.enabled,data.local.branches.count.0,config.push.update.all.roots.enabled,data.remote.branches.count.0,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,data.remotes.in.project.2+" collectionTime="1485205337917" />
+      <project id="DacingPartyInvitation" values="config.save.policy.STASH,config.ssh.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.warn.about.detached.enabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1485205334049" />
+      <project id="MyApplication" values="config.push.update.all.roots.enabled,config.save.policy.STASH,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT" collectionTime="1485196611403" />
+      <project id="HappyBirthday" values="config.warn.about.crlf.enabled,config.save.policy.STASH,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.repo.sync.NOT_DECIDED,config.push.update.all.roots.enabled" collectionTime="1485205337699" />
+    </group>
+    <group name="vcs">
+      <project id="DancingInvitation2" values="Git" collectionTime="1485205337730" />
+    </group>
+    <group name="file-type">
+      <project id="DancingInvitation2" values="UNKNOWN,ProGuard File,IDEA_MODULE,JAVA,Groovy,PLAIN_TEXT,ARCHIVE,XML,Properties,AIDL,Images" collectionTime="1485205337808" />
+      <project id="MyApplication" values="Groovy,IDEA_MODULE,Images,XML,AIDL,PLAIN_TEXT,ARCHIVE,UNKNOWN,JAVA,Properties,ProGuard File" collectionTime="1485196611122" />
+      <project id="HappyBirthday" values="AIDL,Properties,XML,IDEA_MODULE,JAVA,ProGuard File,Groovy,ARCHIVE,Images,PLAIN_TEXT" collectionTime="1485205337340" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="DancingInvitation2" values="AndroidRunConfigurationType" collectionTime="1485205337730" />
+      <project id="MyApplication" values="AndroidRunConfigurationType" collectionTime="1485196610842" />
+      <project id="HappyBirthday" values="AndroidRunConfigurationType" collectionTime="1485205337184" />
+    </group>
+    <group name="language-level">
+      <project id="DancingInvitation2" values="JDK_1_7" collectionTime="1485205337808" />
+      <project id="DacingPartyInvitation" values="JDK_1_8" collectionTime="1485205334002" />
+      <project id="MyApplication" values="JDK_1_8,JDK_1_7" collectionTime="1485196611388" />
+      <project id="HappyBirthday" values="JDK_1_7" collectionTime="1485205337699" />
+    </group>
+    <group name="frameworks">
+      <project id="DancingInvitation2" values="java-gradle,android,android-gradle" collectionTime="1485205337730" />
+      <project id="MyApplication" values="android-gradle,android,java-gradle" collectionTime="1485196610826" />
+      <project id="HappyBirthday" values="java-gradle,android-gradle,android" collectionTime="1485205337184" />
+    </group>
+    <group name="module type">
+      <project id="DancingInvitation2" values="JAVA_MODULE" collectionTime="1485205337730" />
+      <project id="DacingPartyInvitation" values="JAVA_MODULE" collectionTime="1485205333003" />
+      <project id="MyApplication" values="JAVA_MODULE" collectionTime="1485196610826" />
+      <project id="HappyBirthday" values="JAVA_MODULE" collectionTime="1485205337184" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="34" />
+      <entry feature="ideaapp.started" count="13" />
+      <entry feature="tips.of.the.day.next" count="10" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="2" />
+    </counts>
+  </component>
+</application>

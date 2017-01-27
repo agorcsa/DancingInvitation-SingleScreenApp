@@ -1,0 +1,51 @@
+2015/09/20-18:22:06.257 3564 Reusing MANIFEST C:\Users\andreea\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2015/09/20-18:22:06.258 3564 Recovering log #36
+2015/09/20-18:22:06.338 3564 Level-0 table #40: started
+2015/09/20-18:22:06.683 3564 Level-0 table #40: 5546441 bytes OK
+2015/09/20-18:22:06.768 3564 Delete type=0 #36
+2015/09/20-18:22:14.552 2360 Level-0 table #43: started
+2015/09/20-18:22:15.565 2360 Level-0 table #43: 5936652 bytes OK
+2015/09/20-18:22:15.638 2360 Delete type=0 #41
+2015/09/20-18:22:49.515 2360 Level-0 table #45: started
+2015/09/20-18:22:49.854 2360 Level-0 table #45: 5866844 bytes OK
+2015/09/20-18:22:49.897 2360 Delete type=0 #42
+2015/09/20-18:31:34.605 2360 Level-0 table #47: started
+2015/09/20-18:31:35.690 2360 Level-0 table #47: 5870577 bytes OK
+2015/09/20-18:31:35.733 2360 Delete type=0 #44
+2015/09/20-18:31:35.734 2360 Compacting 4@0 + 2@1 files
+2015/09/20-18:31:36.620 2360 Generated table #48: 4 keys, 5868369 bytes
+2015/09/20-18:31:36.917 2360 Generated table #49: 12 keys, 71488 bytes
+2015/09/20-18:31:36.917 2360 Compacted 4@0 + 2@1 files => 5939857 bytes
+2015/09/20-18:31:36.929 2360 compacted to: files[ 0 2 1 0 0 0 0 ]
+2015/09/20-18:31:36.930 2360 Delete type=2 #37
+2015/09/20-18:31:36.931 2360 Delete type=2 #38
+2015/09/20-18:31:36.953 2360 Delete type=2 #40
+2015/09/20-18:31:36.954 2360 Delete type=2 #43
+2015/09/20-18:31:36.957 2360 Delete type=2 #45
+2015/09/20-18:31:36.959 2360 Delete type=2 #47
+2015/09/20-18:41:34.675 2360 Level-0 table #51: started
+2015/09/20-18:41:35.559 2360 Level-0 table #51: 5873809 bytes OK
+2015/09/20-18:41:35.610 2360 Delete type=0 #46
+2015/09/20-18:51:36.828 2360 Level-0 table #53: started
+2015/09/20-18:51:37.659 2360 Level-0 table #53: 5955380 bytes OK
+2015/09/20-18:51:37.741 2360 Delete type=0 #50
+2015/09/20-19:01:36.771 2360 Level-0 table #55: started
+2015/09/20-19:01:37.006 2360 Level-0 table #55: 6023931 bytes OK
+2015/09/20-19:01:37.025 2360 Delete type=0 #52
+2015/09/20-19:11:34.691 2360 Level-0 table #57: started
+2015/09/20-19:11:36.216 2360 Level-0 table #57: 6097802 bytes OK
+2015/09/20-19:11:36.249 2360 Delete type=0 #54
+2015/09/20-19:11:36.251 2360 Compacting 4@0 + 2@1 files
+2015/09/20-19:11:37.508 2360 Generated table #58: 4 keys, 6095569 bytes
+2015/09/20-19:11:37.579 2360 Generated table #59: 12 keys, 71515 bytes
+2015/09/20-19:11:37.579 2360 Compacted 4@0 + 2@1 files => 6167084 bytes
+2015/09/20-19:11:37.603 2360 compacted to: files[ 0 2 1 0 0 0 0 ]
+2015/09/20-19:11:37.603 2360 Delete type=2 #48
+2015/09/20-19:11:37.605 2360 Delete type=2 #49
+2015/09/20-19:11:37.606 2360 Delete type=2 #51
+2015/09/20-19:11:37.609 2360 Delete type=2 #53
+2015/09/20-19:11:37.611 2360 Delete type=2 #55
+2015/09/20-19:11:37.613 2360 Delete type=2 #57
+2015/09/20-19:14:22.139 2360 Level-0 table #61: started
+2015/09/20-19:14:22.347 2360 Level-0 table #61: 6161753 bytes OK
+2015/09/20-19:14:22.377 2360 Delete type=0 #56

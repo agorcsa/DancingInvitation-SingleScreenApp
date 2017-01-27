@@ -1,0 +1,103 @@
+<RelativeLayout
+
+xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:id="@+id/activity_main"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.example.android.dancinginvitation.MainActivity" >
+
+<ImageView
+    style="@style/BackgroundImage"
+    android:id="@+id/latindancers"
+    android:scaleType="@dimen/scaleType"
+    android:src="@drawable/latindancers" />
+
+<TextView
+    style="@style/EventName"
+    android:text="@string/event_name"
+    android:id="@+id/pinktitle"
+    android:layout_marginLeft="@dimen/layout_marginLeft"
+    android:layout_marginTop="@dimen/layout_marginTop" />
+
+<TextView
+    style="@style/WhiteText"
+    android:text="@string/night"
+    android:id="@+id/night"
+    android:textSize="@dimen/textSizeBig"
+    android:layout_below="@+id/pinktitle"
+    android:layout_marginLeft="@dimen/layout_marginLeft" />
+
+<TextView
+    style="@style/WhiteText"
+    android:text="@string/date"
+    android:id="@+id/date"
+    android:layout_below="@id/night"
+    android:layout_marginLeft="@dimen/layout_marginLeft" />
+
+<TextView
+    style="@style/WhiteText"
+    android:id="@+id/entrance"
+    android:text="@string/entrance"
+    android:layout_below="@id/date"
+    android:layout_marginLeft="@dimen/layout_marginLeft" />
+
+<TextView
+    style="@style/WhiteText"
+    android:id="@+id/black"
+    android:text="@string/black"
+    android:layout_below="@id/entrance"
+    android:layout_marginLeft="@dimen/layout_marginLeft" />
+
+<TextView
+    style="@style/Welcome"
+    android:id="@+id/welcome"
+    android:text="@string/welcome"
+    android:textSize="@dimen/textSizeSmall"
+    android:paddingLeft="@dimen/paddingLeft"
+    android:layout_below="@id/black"/>
+
+<TextView
+    style="@style/BottomText"
+    android:id="@+id/city"
+    android:text="@string/city"
+    android:textSize="@dimen/textSizeMedium"
+    android:layout_alignParentBottom="@bool/layout_alignParentBottom"
+    android:layout_marginLeft="@dimen/layout_marginLeft"
+    android:paddingBottom="@dimen/layout_marginBottom"/>
+
+<TextView
+    style="@style/BottomText"
+    android:text="@string/street"
+    android:id="@+id/street"
+    android:textSize="@dimen/textSizeMedium"
+    android:layout_above="@+id/city"
+    android:layout_alignParentLeft="@bool/layout_alignParentLeft"
+    android:layout_alignParentStart="@bool/layout_alignParentStart"
+    android:layout_marginLeft="@dimen/layout_marginLeft"/>
+
+<ImageView
+    style="@style/SmallImage"
+    android:src="@drawable/salsa"
+    android:id="@+id/salsalogo"
+    android:layout_alignParentBottom="@bool/layout_alignParentBottom"
+    android:layout_alignParentRight="@bool/layout_alignParentRight"
+    android:layout_alignParentEnd="@bool/layout_alignParentEnd"/>
+
+<ImageView
+    style="@style/SmallImage"
+    android:src="@drawable/rsz_buytickets"
+    android:id="@+id/buybutton"
+    android:layout_marginLeft="@dimen/layout_marginLeft"
+    android:layout_centerVertical="@bool/layout_centerVertical"/>
+
+<TextView
+    style="@style/PinkText"
+    android:id="@+id/pink"
+    android:text="@string/pink"
+    android:layout_above="@+id/welcome"
+    android:layout_toRightOf="@+id/entrance"
+    android:layout_toEndOf="@+id/entrance" />
+
+</RelativeLayout>
+

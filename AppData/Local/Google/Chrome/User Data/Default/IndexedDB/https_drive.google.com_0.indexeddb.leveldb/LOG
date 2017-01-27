@@ -1,0 +1,27 @@
+2016/05/20-22:44:09.934 824 Reusing MANIFEST C:\Users\andreea\AppData\Local\Google\Chrome\User Data\Default\IndexedDB\https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2016/05/20-22:44:09.945 824 Recovering log #60
+2016/05/20-22:44:10.046 824 Level-0 table #63: started
+2016/05/20-22:44:10.368 824 Level-0 table #63: 6186915 bytes OK
+2016/05/20-22:44:10.610 824 Delete type=0 #60
+2016/05/20-22:44:13.103 824 Current memtable full; waiting...
+2016/05/20-22:44:13.127 4460 Level-0 table #66: started
+2016/05/20-22:44:13.150 4460 Level-0 table #66: 429 bytes OK
+2016/05/20-22:44:13.165 4460 Delete type=0 #64
+2016/05/20-22:44:13.166 4460 Level-0 table #68: started
+2016/05/20-22:44:13.167 4460 Level-0 table #68: 0 bytes OK
+2016/05/20-22:44:13.210 4460 Delete type=0 #65
+2016/05/20-22:44:13.213 4460 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at '\x00\x01\x01\x02\x01\x1a\x000\x002\x001\x005\x005\x001\x002\x003\x008\x003\x009\x004\x006\x004\x003\x008\x003\x005\x005\x004\x00_\x001\x00_\x00o\x00f\x00c' @ 325 : 1
+2016/05/20-22:44:13.213 4460 Compacting 3@0 + 2@1 files
+2016/05/20-22:44:14.044 4460 Generated table #69: 7 keys, 6178754 bytes
+2016/05/20-22:44:14.085 4460 Generated table #70: 12 keys, 65506 bytes
+2016/05/20-22:44:14.085 4460 Compacted 3@0 + 2@1 files => 6244260 bytes
+2016/05/20-22:44:14.108 4460 compacted to: files[ 0 2 1 0 0 0 0 ]
+2016/05/20-22:44:14.109 4460 Delete type=2 #58
+2016/05/20-22:44:14.118 4460 Delete type=2 #59
+2016/05/20-22:44:14.153 4460 Delete type=2 #61
+2016/05/20-22:44:14.157 4460 Delete type=2 #63
+2016/05/20-22:44:14.161 4460 Delete type=2 #66
+2016/05/20-22:44:14.163 4460 Manual compaction at level-0 from '\x00\x01\x01\x02\x01\x1a\x000\x002\x001\x005\x005\x001\x002\x003\x008\x003\x009\x004\x006\x004\x003\x008\x003\x005\x005\x004\x00_\x001\x00_\x00o\x00f\x00c' @ 325 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2016/05/20-22:44:38.796 4460 Level-0 table #72: started
+2016/05/20-22:44:39.304 4460 Level-0 table #72: 10026485 bytes OK
+2016/05/20-22:44:39.322 4460 Delete type=0 #67

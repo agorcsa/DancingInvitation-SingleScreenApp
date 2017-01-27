@@ -1,0 +1,20 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1680.1050" x="839" y="230" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1680.1050" x="547" y="316" />
+    <location key="AndroidThemeDialog.0.0.1680.1050" x="420" y="204" />
+    <location key="deploy.picker.dialog.0.0.1680.1050" x="488" y="178" />
+    <location key="ProcessPopupWindow.0.0.1680.1050" x="1052" y="841" />
+    <location key="findTextDialog.0.0.1680.1050" x="594" y="219" />
+    <location key="FileChooserDialogImpl.0.0.1680.1050" x="620" y="254" />
+    <location key="IdeErrosDialog.0.0.1680.1050" x="468" y="314" />
+    <location key="Github.ShareDialog.0.0.1680.1050" x="632" y="375" />
+    <location key="Github.UntrackedFilesDialog.0.0.1680.1050" x="620" y="213" />
+    <size key="ProcessPopupWindow.0.0.1680.1050" width="355" height="127" />
+    <size key="GridCell.Tab.0.left.0.0.1680.1050" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1680.1050" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1680.1050" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1680.1050" width="0" height="0" />
+    <size key="javadoc.popup.0.0.1680.1050" width="446" height="165" />
+  </component>
+</application>

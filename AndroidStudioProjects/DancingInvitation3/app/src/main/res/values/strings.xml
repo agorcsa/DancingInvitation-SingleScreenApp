@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dancing Invitation</string>
+    <string name="text_name"><![CDATA[Salsa & bachata]]></string>
+    <string name="event_name"><![CDATA[Salsa & bachata]]></string>
+    <string name="night">NIGHT</string>
+    <string name="date">DATE: 28th February</string>
+    <string name="entrance">ENTRANCE: 10€*</string>
+    <string name="black"><![CDATA[DRESS: BLACK &]]></string>
+    <string name="pink">PINK</string>
+    <string name="welcome">*You are welcome after 22.00</string>
+    <string name="city">London</string>
+    <string name="street">34 Templewood</string>
+</resources>
